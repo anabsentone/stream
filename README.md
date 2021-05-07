@@ -1,4 +1,6 @@
-## Monthly Vote - (use command !monthly in chat for a link to this page)
+## Monthly Vote
+
+Use command !monthly in chat for a link to this page.
 
 Each month, stream community members may vote on items that I will do:
 1. During the week before the 1st Monday of each month, each individual can submit 1 response to a survey. The response will include an instruction of a task for me to do as well as the Twitch username of the respondent (username needed to verify eligibility of submission).
