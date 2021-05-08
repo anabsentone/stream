@@ -7,12 +7,16 @@ TL;DR:
 2. You vote on the items.
 3. I do the items.
 
+\
+\
 Each month, stream community members may vote on items that I will do:
 1. During the week before the 1st Monday of each month, each individual can submit 1 response to a survey. The response will include an instruction of a task for me to do as well as the Twitch username of the respondent (username needed to verify eligibility of submission).
 2. On the 1st Monday of the month, I will review and transfer the submissions into a second survey (Note: anything that could violate the law or could ruin me physically, financially, or professionally will automatically be excluded).
 3. The second survey will list all included items alongside yes/no vote options. Each individual may then submit one response to this survey: the response must have either 'yes' or 'no' selected on all items, and 'yes' can only be selected for up to half of the items. Each individual's votes will be weighted based on their stream engagement during the previous month (redeeming channel points, cheering bits, subbing, or gifting subs). Weighted majority 'yes' will approve an item, abstains not factored. These survey responses are accepted until the 1st Wednesday of the month.
 4. I perform the approved items over the rest of the month, or when appropriate. Items that can be done on stream will be done on stream. For items that cannot be done on stream, I will do my best to document and showcase the evidence of having done them.
 
+\
+\
 Example:
 1. Survey opens on Monday May 31, 2021 after stream ends. Submissions between then and Monday June 7, 2021 at 5 PM Eastern time will be considered in that month's vote.
 2. On Monday June 7, 2021 between 5 PM and start of stream, I review the submissions. Included submissions are put into a separate survey before start of stream on Monday June 7, 2021. Survey will be live by start of stream and can be reviewed on stream if desired.
