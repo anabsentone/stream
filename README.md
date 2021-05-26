@@ -1,5 +1,7 @@
 # Monthly Vote
 
+Use command !monthly in chat for a link to this page.
+
 ## Current Vote (June)
 
 Submit things: https://forms.gle/R7gMTULiXThMuPZo9 (closes on June 2, 2021)
@@ -8,15 +10,11 @@ Vote on items: TBA on June 2, 2021
 
 ## About the Monthly Vote
 
-Use command !monthly in chat for a link to this page.
-
 TL;DR:
 1. You submit items.
 2. You vote on the items.
 3. I do the items.
 
-\
-\
 At the beginning of each month, stream community members may vote on items that I will do:
 1. Each individual submits a response to a survey containing an instruction of a task for me to do.
 2. I review and transfer the submissions into a poll (Note: anything that could violate the law or could ruin me physically, financially, or professionally will automatically be excluded).
