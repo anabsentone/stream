@@ -1,7 +1,9 @@
 # Monthly Vote
 
-## June Vote
+## Current Vote (June)
+
 Submit things: https://forms.gle/R7gMTULiXThMuPZo9 (closes on June 2, 2021)
+\
 Vote on items: TBA on June 2, 2021
 
 ## About the Monthly Vote
