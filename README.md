@@ -1,4 +1,4 @@
-## Monthly Vote
+# Monthly Vote
 
 ## June Vote
 Submit things: https://forms.gle/R7gMTULiXThMuPZo9 (closes on June 2, 2021)
