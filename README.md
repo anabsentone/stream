@@ -4,7 +4,7 @@ Use command !monthly in chat for a link to this page.
 
 ## Current Vote (June)
 
-Submit things: https://forms.gle/R7gMTULiXThMuPZo9 (closes on June 2, 2021)
+Submit things: https://forms.gle/NrrY4jLbjfa4qELV9 (closes on June 2, 2021)
 \
 Vote on items: TBA on June 2, 2021
 
