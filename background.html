@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stream Background Gradient</title>
+    <style>
+        body {
+            background: radial-gradient(#666666, #000000);
+            background-size: 400% 400%;
+
+            -webkit-animation: AnimationName 30s ease infinite;
+            -moz-animation: AnimationName 30s ease infinite;
+            animation: AnimationName 30s ease infinite;
+
+            margin: 0;
+        }
+
+        @-webkit-keyframes AnimationName {
+            0%{background-position:0% 0%}
+            50%{background-position:100% 100%}
+            100%{background-position:0% 0%}
+        }
+        @-moz-keyframes AnimationName {
+            0%{background-position:0% 0%}
+            50%{background-position:100% 100%}
+            100%{background-position:0% 0%}
+        }
+        @keyframes AnimationName {
+            0%{background-position:0% 0%}
+            50%{background-position:100% 100%}
+            100%{background-position:0% 0%}
+        }
+    </style>
+</head>
+<body>
+    <img src="../../../Assets/Images/Stream/logo_single_background.png" height="1080" width="1920" style="opacity: 0.2">
+</body>
+</html>
